@@ -1,0 +1,12 @@
+D:\TrainingPlatform\training-utilities-lib\Utilities\bin\Debug\net8.0\Utilities.deps.json
+D:\TrainingPlatform\training-utilities-lib\Utilities\bin\Debug\net8.0\Utilities.dll
+D:\TrainingPlatform\training-utilities-lib\Utilities\bin\Debug\net8.0\Utilities.pdb
+D:\TrainingPlatform\training-utilities-lib\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingPlatform\training-utilities-lib\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+D:\TrainingPlatform\training-utilities-lib\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+D:\TrainingPlatform\training-utilities-lib\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+D:\TrainingPlatform\training-utilities-lib\Utilities\obj\Debug\net8.0\Utilities.dll
+D:\TrainingPlatform\training-utilities-lib\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+D:\TrainingPlatform\training-utilities-lib\Utilities\obj\Debug\net8.0\Utilities.pdb
+D:\TrainingPlatform\training-utilities-lib\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+D:\TrainingPlatform\training-utilities-lib\Utilities\obj\Debug\net8.0\Utilities.csproj.AssemblyReference.cache
